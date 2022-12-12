@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "970894579220",
+    "project_id": "fir-retrieve-images",
+    "storage_bucket": "fir-retrieve-images.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970894579220:android:02be4ad118eedf358b3901",
+        "android_client_info": {
+          "package_name": "com.ctl.firebaseretrieveimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970894579220-1j6ojmo6rn1dljtgmok4dea7g1dbk1uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ctl.firebaseretrieveimages",
+            "certificate_hash": "9ff0ecb7d47089c6d30befba765a41052f768679"
+          }
+        },
+        {
+          "client_id": "970894579220-6a8csd1jlms0hu6f2tl8p6nsb1jfqppc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA34thn4xZlX-_rIc2H_Yo964VseAXaXrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970894579220-6a8csd1jlms0hu6f2tl8p6nsb1jfqppc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
